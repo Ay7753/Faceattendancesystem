@@ -1,0 +1,6 @@
+[SMTP]
+HOST = "smtp.gmail.com"
+PORT = 587
+USER = "your_email@gmail.com"
+PASS = "your_app_password"
+USE_TLS = true

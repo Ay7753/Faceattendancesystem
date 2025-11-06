@@ -1,0 +1,11 @@
+[project]
+name = "fastapi_jwt_app"
+version = "1.0.0"
+description = "Simple JWT Authentication API"
+requires-python = ">=3.10"
+
+dependencies = [
+    "fastapi",
+    "uvicorn",
+    "PyJWT"
+]
